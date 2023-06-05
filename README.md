@@ -4,7 +4,7 @@ This project focuses on implementing Generative Adversarial Networks (GANs) and 
 
 ## Project Structure
 
-- The main project is located in the `ltrace_folder`.
+- The main project is located in the `ltrace` folder.
 - Place the dataset in the `ltrace/datasets/` folder.
 - The `gan_models` notebook contains the models for GANs.
 - The `vaes_models` notebook contains the models for VAEs.
